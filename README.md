@@ -3,7 +3,7 @@
 <p align="center"><strong>A collection of IPAs for TrolStore and IPA signing apps</strong></p>
 
 <p align="center">
-  <a href="https://github.com/swaggyP36000/TrollStore-IPAs/releases/latest"><img src="https://img.shields.io/github/v/release/swaggyP36000/TrollStore-IPAs?color=%232ea44f&label=Latest%20Release" alt="Latest Release Badge"></a>
+  <a href="https://github.com/Slax420/IPAs/releases/latest"><img src="https://img.shields.io/github/v/release/swaggyP36000/TrollStore-IPAs?color=%232ea44f&label=Latest%20Release" alt="Latest Release Badge"></a>
 </p>
 
 <p align="center">
