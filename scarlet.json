@@ -32,41 +32,6 @@
       "description": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD: Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.\nLast updated: dayanch96 : 05-04-2024 / BandarHL : 08-19-2023\nStatus: \u26a0\ufe0f \ud83d\udc4d \u2b50",
       "bundleID": "com.zhiliaoapp.musically",
       "appstore": "com.zhiliaoapp.musically",
-    },
-    {
-      "name": "Sposify++",
-      "version": "8.6.42",
-      "down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
-      "category": "Tweaked Apps",
-      "description": "Sposify and Spotilife tweak merged into one app",
-      "bundleID": "com.spotify.client",
-      "appstore": "com.spotify.client",
-      "debs": [
-        "https://usescarlet.com/debs/Spotilife.dylib",
-        "https://usescarlet.com/debs/Sposify.dylib",
-        "https://usescarlet.com/debs/SposifyFix.dylib"
-      ],
-      "changelog": "- Updated Spotilife to v1.8"
-    },
-    {
-      "name": "Instagram Rhino",
-      "version": "187.0",
-      "icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
-      "down": "https://resources.usescarlet.com/repo/IPAs/instagramRhino.ipa",
-      "category": "Tweaked Apps",
-      "bundleID": "com.rhino.InstagramApp",
-      "appstore": "com.burbn.instagram"
-    },
-    {
-      "name": "VideoStar",
-      "version": "12.1.9",
-      "down": "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/Video.Star.ipa",
-      "category": "Tweaked Apps",
-      "debs": [
-        "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/VideoStarHack.dylib"
-      ],
-      "bundleID": "com.frontierdesign.videostar",
-      "appstore": "com.frontierdesign.videostar"
     }
   ],
   "Jailbreaks": [
