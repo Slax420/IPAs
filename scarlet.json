@@ -21,18 +21,6 @@
       "description": "SpooferX for Pok\u00e9mon GO is an enhanced edition of the Pok\u00e9mon GO app, adding a joystick and with free teleport! It also includes a lot of others features: IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you!",
       "bundleID": "com.nianticlabs.pokemongo",
       "appstore": "com.nianticlabs.pokemongo"
-    },
-    {
-      "name": "Scriptware",
-      "version": "2.594.524",
-      "down": "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/Roblox.ipa",
-      "category": "Hacked Games",
-      "changelog": "- Added Support for Latest version",
-      "bundleID": "com.roblox.robloxmobile",
-      "appstore": "com.roblox.robloxmobile",
-      "debs": [
-        "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/scriptware.dylib"
-      ]
     }
   ],
   "Tweaked": [
