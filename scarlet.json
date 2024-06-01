@@ -109,19 +109,6 @@
         "https://unc0ver.dev/",
         "https://twitter.com/pwn20wnd"
       ]
-    },
-    {
-      "name": "unc0ver Dark",
-      "version": "8.0.2",
-      "icon": "https://raw.githubusercontent.com/Slax420/IPAs/main/icons/unc0ver-Dark.jpg",
-      "down": "https://github.com/Slax420/IPAs/releases/download/unc0ver-Dark/unc0ver_Dark_Release_8.0.2.ipa",
-      "dev": "unc0ver-Team",
-      "category": "Jailbreaks",
-      "bundleID": "science.xnu.undecimus",
-      "contact": [
-        "https://unc0ver.dev/",
-        "https://twitter.com/pwn20wnd"
-      ]
     }
   ],
   "Emulators": [
