@@ -6,8 +6,8 @@
   "Games": [
     {
       "name": "iPogo",
-      "version": "0.313.0",
-      "down": "https://ipogo.app/download/ipogo-3.3.7.ipa",
+      "version": "3.3.9",
+      "down": "https://ipogo.app/download/ipogo-3.3.9.ipa",
       "category": "Hacked Games",
       "description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
       "bundleID": "com.nianticlabs.pokemongo",
