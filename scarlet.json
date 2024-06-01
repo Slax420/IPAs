@@ -117,7 +117,7 @@
       "down": "https://github.com/Slax420/IPAs/releases/download/unc0ver-Dark/unc0ver_Dark_Release_8.0.2.ipa",
       "dev": "unc0ver-Team",
       "category": "Jailbreaks",
-      "bundleID": "science.xnu.undecimus",
+      "bundleID": "sscience.xnu.undecimus",
       "contact": [
         "https://unc0ver.dev/",
         "https://twitter.com/pwn20wnd"
