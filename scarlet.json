@@ -37,16 +37,15 @@
   "Jailbreaks": [
     {
       "name": "Taurine",
-      "version": "1.1.7",
-      "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
-      "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+      "version": "1.1.7-3",
+      "icon": "https://raw.githubusercontent.com/Slax420/IPAs/main/icons/taurine.png",
+      "down": "https://github.com/Slax420/IPAs/releases/download/Taurine/Taurine.1.1.7-3.ipa",
       "dev": "Odyssey-Team",
       "category": "Jailbreaks",
       "description": "Time to get amped.",
       "bundleID": "com.odysseyteam.taurine",
       "screenshots": [
-        "https://taurine.app/assets/images/iphones.png",
-        "https://taurine.app/assets/images/iphone.png"
+        "https://raw.githubusercontent.com/Slax420/IPAs/main/screenshots/iphones.png"
       ],
       "contact": [
         "https://taurine.app/",
