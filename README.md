@@ -1,6 +1,6 @@
 <h1 align="center">Slax IPA Library</h1>
 
-<p align="center"><strong>A collection of IPAs for TrolStore and IPA signing apps</strong></p>
+<p align="center"><strong>A collection of IPAs for TrollStore and IPA signing apps</strong></p>
 
 <p align="center">
   <a href="https://github.com/Slax420/IPAs/releases/latest"><img src="https://img.shields.io/github/v/release/swaggyP36000/TrollStore-IPAs?color=%232ea44f&label=Latest%20Release" alt="Latest Release Badge"></a>
