@@ -146,12 +146,11 @@
     {
       "name": "Scarlet",
       "version": "1.0",
-      "icon": "https://usescarlet.com/icon.png",
-      "down": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
+      "icon": "https://raw.githubusercontent.com/Slax420/IPAs/main/icons/scarlet.png",
+      "down": "https://github.com/Slax420/IPAs/releases/download/Scarlet/Scarlet.ipa",
       "description": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
       "bundleID": "com.DebianArch.Scarlet",
-      "category": "Alpha",
-      "changelog": "- Added fakesign support\n-Added back SSL install support."
+      "category": "Other",
     }
   ]
 }
