@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-    <a href="https://fwuf.in/#/esign://addsource?url=https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps_esign.json">
-    <img src="https://img.shields.io/badge/Add%20repo%20to%20ESign-%20blue?style=for-the-badge&color=1e90ff" alt="Add repo to ESign">
+    <a href="scarlet://repo=https://raw.githubusercontent.com/Slax420/IPAs/main/scarlet.json">
+    <img src="https://img.shields.io/badge/Add%20repo%20to%20ESign-%20blue?style=for-the-badge&color=e94043" alt="Add repo to Scarlet">
   </a>
 </p>
 
