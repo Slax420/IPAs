@@ -44,7 +44,7 @@
       "down": "https://github.com/Slax420/IPAs/releases/download/Taurine/Taurine.1.1.7-3.ipa",
       "dev": "Odyssey Team",
       "category": "Jailbreaks",
-      "description": "Time to get amped.",
+      "description": "iOS 14.0-14.8.1 \nTime to get amped.",
       "bundleID": "com.odysseyteam.taurine",
       "screenshots": [
         "https://raw.githubusercontent.com/Slax420/IPAs/main/screenshots/iphones.png"
@@ -62,7 +62,7 @@
       "dev": "Odyssey Team",
       "category": "Jailbreaks",
       "bundleID": "org.coolstar.odyssey",
-      "description": "A new jailbreak for a new era.",
+      "description": "iOS 13.0-13.7 \nA new jailbreak for a new era.",
       "screenshots": [
         "https://raw.githubusercontent.com/Slax420/IPAs/main/screenshots/iphones.png",
         "https://raw.githubusercontent.com/Slax420/IPAs/main/screenshots/iphone.png"
@@ -80,7 +80,7 @@
       "dev": "unc0ver Team",
       "category": "Jailbreaks",
       "bundleID": "science.xnu.undecimus",
-      "description": "iOS 11.0 - 14.8 \nThe most advanced jail​break tool.",
+      "description": "iOS 11.0-14.8 \nThe most advanced jail​break tool.",
       "contact": [
         "https://unc0ver.dev/",
         "https://twitter.com/pwn20wnd"
