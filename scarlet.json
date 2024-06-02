@@ -105,12 +105,12 @@
       "enableBackup": true
     },
     {
-      "name": "Delta iPac",
-      "version": "1",
-      "icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-1024.png",
-      "down": "https://github.com/ianclawson/Delta-iPac-Edition/releases/download/1.0.1/Delta-iPac.ipa",
+      "name": "Delta",
+      "version": "1.5",
+      "icon": "https://raw.githubusercontent.com/Slax420/IPAs/main/icons/delta.png",
+      "down": "https://github.com/Slax420/IPAs/releases/download/Delta/Delta_1_5.ipa",
       "category": "Emulators",
-      "description": "A Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices",
+      "description": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.",
       "bundleID": "com.ianclawson.DeltaPacEdition",
       "enableBackup": true
     },
