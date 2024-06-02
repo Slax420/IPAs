@@ -57,15 +57,15 @@
     {
       "name": "Odyssey",
       "version": "1.4.3",
-      "icon": "https://theodyssey.dev/assets/images/icon.png",
-      "down": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.3/Odyssey-1.4.3.ipa",
+      "icon": "https://raw.githubusercontent.com/Slax420/IPAs/main/icons/odyssey.png",
+      "down": "https://github.com/Slax420/IPAs/releases/download/Odyssey/Odyssey-1.4.3.ipa",
       "dev": "Odyssey Team",
       "category": "Jailbreaks",
       "bundleID": "org.coolstar.odyssey",
       "description": "A new jailbreak for a new era.",
       "screenshots": [
-        "https://theodyssey.dev/assets/images/iphones.png",
-        "https://theodyssey.dev/assets/images/iphone.png"
+        "https://raw.githubusercontent.com/Slax420/IPAs/main/screenshots/iphones.png",
+        "https://raw.githubusercontent.com/Slax420/IPAs/main/screenshots/iphone.png"
       ],
       "contact": [
         "https://theodyssey.dev/",
