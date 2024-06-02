@@ -106,12 +106,12 @@
     {
       "name": "iNDS",
       "version": "1.10.8",
+      "dev": "iNDS Team",
       "icon": "https://raw.githubusercontent.com/Slax420/IPAs/main/icons/inds.png",
       "down": "https://github.com/Slax420/IPAs/releases/download/iNDS/iNDS.ipa",
       "category": "Emulators",
-      "description": "",
-      "bundleID": "net.nerd.iNDS",
-      "enableBackup": true
+      "description": "iNDS is a powerful Nintendo DS emulator derived from the original nds4ios! Originally only for jailbroken devices, it has found its way to the non-jailbroken scene so you may enjoy your favorite DS games on your favorite device!",
+      "bundleID": "net.nerd.iNDS"
     },
     {
       "name": "Delta",
@@ -120,8 +120,7 @@
       "down": "https://github.com/Slax420/IPAs/releases/download/Delta/Delta_1_5.ipa",
       "category": "Emulators",
       "bundleID": "com.rileytestut.Delta",
-      "appstore": "com.rileytestut.Delta",
-      "enableBackup": true
+      "appstore": "com.rileytestut.Delta"
     },
     {
       "name": "PPSSPP",
@@ -130,8 +129,7 @@
       "down": "https://github.com/Slax420/IPAs/releases/download/PPSSPP/PPSSPP_v1.17.1-580-g14225d4bc0.ipa",
       "dev": "Henrik Rydgård",
       "category": "Emulators",
-      "description": "PPSSPP can run your PSP games on your PC or Android phone in full HD resolution or even higher. It can also upscale textures to make them sharper, and you can enable post-processing shaders to adjust color and brightness the way you like, and other effects.",
-      "enableBackup": true
+      "description": "PPSSPP can run your PSP games on your PC or Android phone in full HD resolution or even higher. It can also upscale textures to make them sharper, and you can enable post-processing shaders to adjust color and brightness the way you like, and other effects."
     }
   ],
   "Other": [
