@@ -38,6 +38,7 @@
     {
       "name": "DarkCloud",
       "version": "6.16.1",
+      "icon": "https://raw.githubusercontent.com/Slax420/IPAs/main/icons/darkcloud.png",
       "down": "https://github.com/Slax420/IPAs/releases/download/DarkCloud/DarkCloud_6.16.1.ipa",
       "category": "Tweaked Apps",
       "bundleID": "com.soundcloud.TouchApp",
