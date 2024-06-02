@@ -80,6 +80,7 @@
       "dev": "unc0ver Team",
       "category": "Jailbreaks",
       "bundleID": "science.xnu.undecimus",
+      "description": "The most advanced jail​break tool. \niOS 11.0 - 14.8",
       "contact": [
         "https://unc0ver.dev/",
         "https://twitter.com/pwn20wnd"
