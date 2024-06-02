@@ -13,7 +13,7 @@
 
 <p align="center">
     <a href="https://fwuf.in/#/scarlet://repo=https://raw.githubusercontent.com/Slax420/IPAs/main/scarlet.json">
-    <img src="https://raw.githubusercontent.com/Slax420/IPAs/main/Add repo to Scarlet.png" alt="Add repo to Scarlet">
+    <img src="https://raw.githubusercontent.com/Slax420/IPAs/main/Repo%20Scarlet.png" alt="Add repo to Scarlet">
   </a>
 </p>
 
