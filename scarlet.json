@@ -34,6 +34,14 @@
       "description": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD: Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.",
       "bundleID": "com.zhiliaoapp.musically",
       "appstore": "com.zhiliaoapp.musically"
+    },
+    {
+      "name": "DarkCloud",
+      "version": "6.16.1",
+      "down": "https://github.com/Slax420/IPAs/releases/download/DarkCloud/DarkCloud_6.16.1.ipa",
+      "category": "Tweaked Apps",
+      "bundleID": "com.soundcloud.TouchApp",
+      "appstore": "com.soundcloud.TouchApp"
     }
   ],
   "Jailbreaks": [
