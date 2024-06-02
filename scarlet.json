@@ -33,7 +33,7 @@
       "category": "Tweaked Apps",
       "description": "This is possibly the finest TikTok enhancement currently available before BHTikTokLRD: Featuring a completely revamped user interface, enhanced stability, works if sideloaded, etc. For additional information, visit dayanch96's GitHub repository. Note: The \"Change Region\" feature seems to not be working, refer to this issue.",
       "bundleID": "com.zhiliaoapp.musically",
-      "appstore": "com.zhiliaoapp.musically",
+      "appstore": "com.zhiliaoapp.musically"
     }
   ],
   "Jailbreaks": [
@@ -128,7 +128,7 @@
       "down": "https://github.com/Slax420/IPAs/releases/download/Scarlet/Scarlet.ipa",
       "description": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
       "bundleID": "com.DebianArch.Scarlet",
-      "category": "Other",
+      "category": "Other"
     },
     {
       "name": "Imagine",
@@ -137,7 +137,7 @@
       "down": "https://github.com/Slax420/IPAs/releases/download/Imagine/Imagine_1.6.9_ProFeatureUnlocked.ipa",
       "description": "Injected with ProFeatureUnlocked.",
       "bundleID": "com.vyro.Imagine",
-      "category": "Other",
+      "category": "Other"
     }
   ]
 }
