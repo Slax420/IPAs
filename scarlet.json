@@ -119,8 +119,8 @@
       "icon": "https://raw.githubusercontent.com/Slax420/IPAs/main/icons/delta.png",
       "down": "https://github.com/Slax420/IPAs/releases/download/Delta/Delta_1_5.ipa",
       "category": "Emulators",
-      "description": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.",
-      "bundleID": "com.ianclawson.DeltaPacEdition",
+      "bundleID": "com.rileytestut.Delta",
+      "appstore": "com.rileytestut.Delta",
       "enableBackup": true
     },
     {
