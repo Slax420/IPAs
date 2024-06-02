@@ -126,6 +126,15 @@
       "description": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
       "bundleID": "com.DebianArch.Scarlet",
       "category": "Other",
+    },
+    {
+      "name": "Imagine",
+      "version": "1.6.9",
+      "icon": "https://raw.githubusercontent.com/Slax420/IPAs/main/icons/scarlet.png",
+      "down": "https://github.com/Slax420/IPAs/releases/download/Scarlet/Scarlet.ipa",
+      "description": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
+      "bundleID": "com.DebianArch.Scarlet",
+      "category": "Other",
     }
   ]
 }
