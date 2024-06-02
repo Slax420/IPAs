@@ -81,12 +81,16 @@
     {
       "name": "Dopammine",
       "version": "1.0",
-      "icon": "https://raw.githubusercontent.com/Slax420/IPAs/main/icons/unc0ver.jpg",
-      "down": "https://github.com/Slax420/IPAs/releases/download/unc0ver/unc0ver_Release_8.0.2.ipa",
+      "icon": "https://raw.githubusercontent.com/Slax420/IPAs/main/icons/dopamine.png",
+      "down": "https://github.com/Slax420/IPAs/releases/download/Dopamine/Dopamine.ipa",
       "dev": "Dopamine Team",
       "category": "Jailbreaks",
       "bundleID": "com.opa334.Dopamine",
-      "description": "iOS 15.0-16.6.1* \nA8-A16, M1-M2 \n*A12 and later devices are not supported on iOS 16.6-16.6.1, and A15-A16/M2 devices are not supported on iOS 16.5.1-16.6.1."
+      "description": "iOS 15.0-16.6.1* \nA8-A16, M1-M2 \n*A12 and later devices are not supported on iOS 16.6-16.6.1, and A15-A16/M2 devices are not supported on iOS 16.5.1-16.6.1.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Slax420/IPAs/main/screenshots/screenshot_one.png",
+        "https://raw.githubusercontent.com/Slax420/IPAs/main/screenshots/screenshot_two.png"
+      ]
     }
   ],
   "Emulators": [
