@@ -97,8 +97,8 @@
     {
       "name": "iNDS",
       "version": "1.10.8",
-      "icon": "https://iosninja.io/img/ipas/inds.png",
-      "down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+      "icon": "https://raw.githubusercontent.com/Slax420/IPAs/main/icons/inds.png",
+      "down": "https://github.com/Slax420/IPAs/releases/download/iNDS/iNDS.ipa",
       "category": "Emulators",
       "description": "",
       "bundleID": "net.nerd.iNDS",
