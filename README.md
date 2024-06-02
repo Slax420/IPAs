@@ -13,7 +13,7 @@
 
 <p align="center">
     <a href="scarlet://repo=https://raw.githubusercontent.com/Slax420/IPAs/main/scarlet.json">
-    <img src="https://img.shields.io/badge/Add%20repo%20to%20ESign-%20blue?style=for-the-badge&color=e94043" alt="Add repo to Scarlet">
+    <img src="https://raw.githubusercontent.com/Slax420/IPAs/main/Add repo to Scarlet.png&color=e94043" alt="Add repo to Scarlet">
   </a>
 </p>
 
