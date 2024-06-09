@@ -21,6 +21,15 @@
       "description": "SpooferX for Pok\u00e9mon GO is an enhanced edition of the Pok\u00e9mon GO app, adding a joystick and with free teleport! It also includes a lot of others features: IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you!",
       "bundleID": "com.nianticlabs.pokemongo",
       "appstore": "com.nianticlabs.pokemongo"
+    },
+    {
+      "name": "City Car Driving",
+      "version": "1.048",
+      "down": "https://github.com/Slax420/IPAs/releases/download/CityCarDriving/City.Car.Driving_1.048_Satella.ipa",
+      "category": "Hacked Games",
+      "description": "Injected with Satella.",
+      "bundleID": "com.bariskaplan.citycardriving",
+      "appstore": "com.bariskaplan.citycardriving"
     }
   ],
   "Tweaked": [
